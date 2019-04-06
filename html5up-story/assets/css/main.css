@@ -2659,6 +2659,10 @@ input, select, textarea {
 				width: 100%;
 			}
 
+/*	#headshot.image {
+		display: inline-block;
+	}*/
+
 /* List */
 
 	ol {
